@@ -11,3 +11,4 @@ print("===== CALCULO DE COMPRA =====")
 print("Precio del producto:", precio)
 print("Cantidad comprada:", cantidad)
 print("Total a pagar:", resultado)
+
